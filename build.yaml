@@ -2,7 +2,7 @@
 name: "EDL Creator"
 guid: "6B0E323A-4AEE-4B10-813F-1E060488AE90"
 version: "0.1.0.0"
-targetAbi: "10.9.0.0"
+targetAbi: "10.8.11"
 framework: "net7.0"
 overview: "Create .edl files from Media Segments"
 description: >
